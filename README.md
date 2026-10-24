@@ -139,15 +139,6 @@ frontend. Consider this the origin story with worse CSS.
 
 ---
 
-## 📊 The Numbers
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=storm201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=storm201&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
 <div align="center">
 
 **Currently:** hardening SourceShelf's nightly pipeline and its issue-driven
